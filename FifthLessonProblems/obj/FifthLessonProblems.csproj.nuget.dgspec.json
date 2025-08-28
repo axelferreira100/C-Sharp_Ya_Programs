@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\ThirdLesson\\ThirdLesson.csproj": {}
+    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\ThirdLesson\\ThirdLesson.csproj": {
+    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\ThirdLesson\\ThirdLesson.csproj",
-        "projectName": "ThirdLesson",
-        "projectPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\ThirdLesson\\ThirdLesson.csproj",
+        "projectUniqueName": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj",
+        "projectName": "FifthLessonProblems",
+        "projectPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj",
         "packagesPath": "C:\\Users\\gf352\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\ThirdLesson\\obj\\",
+        "outputPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gf352\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
