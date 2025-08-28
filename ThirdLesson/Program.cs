@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Ingrese la cantidad de horas trabajadas: ");
-            int horasTrabajadas = int.Parse(Console.ReadLine());
-            Console.Write("Ingrese el costo por hora: $");
-            double costoPorHora = double.Parse(Console.ReadLine());
+            Console.Write("Enter the total number of hours worked: ");
+            int workingHours = int.Parse(Console.ReadLine());
+            Console.Write("Enter the hourly rate: $");
+            double hourCost = double.Parse(Console.ReadLine());
 
-            double sueldo = (double)horasTrabajadas * costoPorHora;
-            Console.WriteLine("El sueldo a percibir el empleado ingresado es de: $" + sueldo.ToString());
-            Console.ReadKey(); // This line makes that the console don't disapear, waits a key from the user.
+            double sueldo = (double)workingHours * hourCost;
+            Console.WriteLine("The employee's salary is: $" + sueldo.ToString());
+            Console.ReadKey(); // Keep the console open until a key is pressed.
         }
     }
 }
