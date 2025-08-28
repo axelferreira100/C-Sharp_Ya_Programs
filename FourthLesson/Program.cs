@@ -10,5 +10,6 @@ public class Program
 
         squareArea = squareSide * squareSide;
         Console.WriteLine($"The area of the square is: {squareArea}");
+        Console.ReadKey();
     }
 }

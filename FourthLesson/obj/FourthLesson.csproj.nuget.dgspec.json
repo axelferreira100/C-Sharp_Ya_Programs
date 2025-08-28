@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gf352\\OneDrive\\Desktop\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj": {}
+    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gf352\\OneDrive\\Desktop\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj": {
+    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gf352\\OneDrive\\Desktop\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj",
+        "projectUniqueName": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj",
         "projectName": "FourthLesson",
-        "projectPath": "C:\\Users\\gf352\\OneDrive\\Desktop\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj",
+        "projectPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\FourthLesson.csproj",
         "packagesPath": "C:\\Users\\gf352\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gf352\\OneDrive\\Desktop\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\obj\\",
+        "outputPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FourthLesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gf352\\AppData\\Roaming\\NuGet\\NuGet.Config"
