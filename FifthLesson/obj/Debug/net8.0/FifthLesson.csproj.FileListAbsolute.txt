@@ -1,0 +1,15 @@
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\bin\Debug\net8.0\FifthLesson.exe
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\bin\Debug\net8.0\FifthLesson.deps.json
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\bin\Debug\net8.0\FifthLesson.runtimeconfig.json
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\bin\Debug\net8.0\FifthLesson.dll
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\bin\Debug\net8.0\FifthLesson.pdb
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.AssemblyInfoInputs.cache
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.AssemblyInfo.cs
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.csproj.CoreCompileInputs.cache
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.sourcelink.json
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.dll
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\refint\FifthLesson.dll
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.pdb
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\FifthLesson.genruntimeconfig.cache
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLesson\obj\Debug\net8.0\ref\FifthLesson.dll
