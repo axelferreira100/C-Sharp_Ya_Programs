@@ -10,5 +10,7 @@ public class Program
         Exercise2.SecondExercise();
         Console.WriteLine("Third Exercise");
         Exercise3.ThirdExercise();
+        Console.WriteLine("Fourth Exercise");
+        Exercise4.FourthExercise();
     }
 }
