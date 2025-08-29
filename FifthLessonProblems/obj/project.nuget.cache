@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "94rbRmoplxY=",
+  "dgSpecHash": "Dc76xmpTV67I61MyU0D+bjdcj8mjK7PbptitLpkIMdyw1Du0F/ySBCAdsVrEMvoCgE7dOxiv00PGUtLAqL78Mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
 }

@@ -11,7 +11,7 @@ public class Exercise4
         Console.Write("Enter the item's quantity to purchase: ");
         itemQuantity = int.Parse(Console.ReadLine());
 
-        totalToPay = itemPrice * double.Parse(itemQuantity);
+        totalToPay = (double) itemPrice * itemQuantity;
         Console.WriteLine($"The total amount the buyer must pay is: ${totalToPay}");
         Console.ReadKey();
     }

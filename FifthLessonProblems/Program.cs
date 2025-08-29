@@ -12,5 +12,6 @@ public class Program
         Exercise3.ThirdExercise();
         Console.WriteLine("Fourth Exercise");
         Exercise4.FourthExercise();
+        Console.WriteLine("Thank you for using the program! ;D");
     }
 }

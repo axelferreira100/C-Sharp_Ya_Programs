@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj": {}
+    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblemsSolutions\\FifthLessonProblemsSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj": {
+    "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblemsSolutions\\FifthLessonProblemsSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj",
-        "projectName": "FifthLessonProblems",
-        "projectPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\FifthLessonProblems.csproj",
+        "projectUniqueName": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblemsSolutions\\FifthLessonProblemsSolutions.csproj",
+        "projectName": "FifthLessonProblemsSolutions",
+        "projectPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblemsSolutions\\FifthLessonProblemsSolutions.csproj",
         "packagesPath": "C:\\Users\\gf352\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblems\\obj\\",
+        "outputPath": "C:\\Users\\gf352\\C# Projects\\C-Sharp_Ya_Programs\\FifthLessonProblemsSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gf352\\AppData\\Roaming\\NuGet\\NuGet.Config"

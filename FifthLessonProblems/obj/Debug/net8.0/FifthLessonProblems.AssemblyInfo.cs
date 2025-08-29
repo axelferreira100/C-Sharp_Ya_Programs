@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FifthLessonProblems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8537ec9b6ee5b5295c9b3d0e8519b44d4d181977")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a3df5ae40509f378e9a3a8adddd7efa7a11611e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FifthLessonProblems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FifthLessonProblems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
