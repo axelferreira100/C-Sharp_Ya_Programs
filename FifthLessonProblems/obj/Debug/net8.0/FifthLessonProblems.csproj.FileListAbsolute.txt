@@ -1,0 +1,15 @@
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\bin\Debug\net8.0\FifthLessonProblems.exe
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\bin\Debug\net8.0\FifthLessonProblems.deps.json
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\bin\Debug\net8.0\FifthLessonProblems.runtimeconfig.json
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\bin\Debug\net8.0\FifthLessonProblems.dll
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\bin\Debug\net8.0\FifthLessonProblems.pdb
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.AssemblyInfoInputs.cache
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.AssemblyInfo.cs
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.csproj.CoreCompileInputs.cache
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.sourcelink.json
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.dll
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\refint\FifthLessonProblems.dll
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.pdb
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\FifthLessonProblems.genruntimeconfig.cache
+C:\Users\gf352\C# Projects\C-Sharp_Ya_Programs\FifthLessonProblems\obj\Debug\net8.0\ref\FifthLessonProblems.dll
